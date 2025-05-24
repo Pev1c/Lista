@@ -1,0 +1,311 @@
+#EXTM3U
+
+#EX-YU Filmski kanali sa prevodom
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/AXN_logo.svg/1200px-AXN_logo.svg.png",AXN
+http://live.iptvexample.com/axn.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Cinemax_Logo.svg",Cinemax
+http://live.iptvexample.com/cinemax.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/CineStar_Logo.png",CineStar
+http://live.iptvexample.com/cinestar.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Filmbox_Extra_logo.png",FilmBox Extra HD
+http://live.iptvexample.com/filmboxextra.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Filmbox_Premium_logo.png",FilmBox Premium
+http://live.iptvexample.com/filmboxpremium.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Filmbox_Stars_Logo.png",FilmBox Stars
+http://live.iptvexample.com/filmboxstars.m3u8
+
+#HBO kanali sa prevodom
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/HBO_Logo.svg/1280px-HBO_Logo.svg.png",HBO Adria
+http://live.iptvexample.com/hboadria.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/HBO_Logo.svg/1280px-HBO_Logo.svg.png",HBO 2
+http://live.iptvexample.com/hbo2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/HBO_Logo.svg/1280px-HBO_Logo.svg.png",HBO 3
+http://live.iptvexample.com/hbo3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/HBO_Logo.svg/1280px-HBO_Logo.svg.png",HBO Comedy
+http://live.iptvexample.com/hbocomedy.m3u8
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Cinemax_logo.svg",Cinemax
+http://live.iptvexample.com/cinemax.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/FilmBox_logo.svg",FilmBox Plus
+http://live.iptvexample.com/filmboxplus.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/AXN_logo.svg",AXN
+http://live.iptvexample.com/axn.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/FOX_Channel_logo.svg",FOX Channel
+http://live.iptvexample.com/fox.m3u8
+#EXTINF:-1 tvg-id="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Fox_Channel_logo.svg",FOX (sa prevodom)
+http://live.example.com/fox.m3u8
+#EXTINF:-1 tvg-id="FOXLife" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/FOX_Life_logo.svg",FOX Life (sa prevodom)
+http://live.example.com/foxlife.m3u8
+#EXTINF:-1 tvg-id="AXNSpin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/AXN_Spin_logo.svg",AXN Spin
+http://live.example.com/axnspin.m3u8
+#EXTINF:-1 tvg-id="CineStarAction" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/CineStar_Action_logo.png",CineStar Action
+http://live.example.com/cinestar-action.m3u8
+#EXTINF:-1 tvg-id="TV1000Balkan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/TV1000_logo.svg",TV1000 Balkan (sa prevodom)
+http://live.example.com/tv1000balkan.m3u8
+#EXTINF:-1 tvg-id="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Fox_Channel_logo.svg",FOX Balkans (sa prevodom)
+http://iptv.example.com/streams/fox_balkans.m3u8
+#EXTINF:-1 tvg-id="FOXLife" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/FOX_Life_logo.svg",FOX Life Balkans (sa prevodom)
+http://iptv.example.com/streams/foxlife_balkans.m3u8
+#EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Cinemax_logo.svg",Cinemax Balkans (sa prevodom)
+http://iptv.example.com/streams/cinemax_balkans.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/AMC_Logo_2013.svg",AMC Balkans (sa prevodom)
+http://iptv.example.com/streams/amc_balkans.m3u8
+#EXTINF:-1 tvg-id="CrimeInvestigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Crime_and_Investigation_logo.svg",Crime + Investigation (sa prevodom)
+http://streaming.example.com/crime_investigation.m3u8
+#EXTINF:-1 tvg-id="Syfy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Syfy_logo.svg",Syfy Balkans (sa prevodom)
+http://streaming.example.com/syfy_balkans.m3u8
+#EXTINF:-1 tvg-id="UniversalChannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Universal_Channel_logo.svg",Universal Channel Balkans (sa prevodom)
+http://streaming.example.com/universal_balkans.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Comedy_Central_Logo_2018.svg",Comedy Central Balkans
+http://streaming.example.com/comedy_central_balkans.m3u8
+#EXTINF:-1 tvg-id="FoxActionMovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/Fox_Action_Movies_logo.svg",Fox Action Movies
+http://streaming.example.com/fox_action_movies.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/AXN_Logo.svg",AXN Balkans
+http://streaming.example.com/axn_balkans.m3u8
+
+
+
+#Dokumentarni kanali sa prevodom
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Discovery_Channel_logo_2019.svg",Discovery Channel
+http://live.iptvexample.com/discovery.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Discovery_Science_logo.svg",Discovery Science
+http://live.iptvexample.com/discoveryscience.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Discovery_Showcase_HD_Logo.svg",Discovery Showcase HD
+http://live.iptvexample.com/discoveryshowcase.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/National_Geographic_logo.svg",National Geographic
+http://live.iptvexample.com/natgeo.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/NatGeo_Wild_logo.svg",Nat Geo Wild HD
+http://live.iptvexample.com/natgeowild.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/TLC_Logo.svg",TLC
+http://live.iptvexample.com/tlc.m3u8
+#EXTINF:-1 tvg-id="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/History_Channel_logo.svg",History Channel HD
+http://live.iptvexample.com/historyhd.m3u8
+#EXTINF:-1 tvg-id="History2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/History_Channel_logo.svg",History 2 (H2)
+http://live.iptvexample.com/history2.m3u8
+#EXTINF:-1 tvg-id="ViasatHistory" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/Viasat_History_logo_2020.png",Viasat History
+http://live.iptvexample.com/viasathistory.m3u8
+#EXTINF:-1 tvg-id="ViasatExplore" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Viasat_Explore_logo_2020.png",Viasat Explore
+http://live.iptvexample.com/viasatexplore.m3u8
+#EXTINF:-1 tvg-id="ViasatNature" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Viasat_Nature_logo_2020.png",Viasat Nature
+http://live.iptvexample.com/viasatnature.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Animal_Planet_Logo_2018.svg",Animal Planet (sa prevodom)
+http://live.example.com/animalplanet.m3u8
+#EXTINF:-1 tvg-id="DaVinci" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Da_Vinci_Learning_logo.png",Da Vinci Learning
+http://live.example.com/davinci.m3u8
+#EXTINF:-1 tvg-id="DocuBox" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/DocuBox_logo.png",DocuBox HD
+http://live.example.com/docubox.m3u8
+#EXTINF:-1 tvg-id="NGPeople" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/National_Geographic_People_logo.png",National Geographic People
+http://live.example.com/ngpeople.m3u8
+#EXTINF:-1 tvg-id="NatGeo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/37/National_Geographic_Channel_logo.svg",National Geographic Balkans (sa prevodom)
+http://iptv.example.com/streams/natgeo_balkans.m3u8
+#EXTINF:-1 tvg-id="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/Discovery_Channel_logo.svg",Discovery Channel Balkans (sa prevodom)
+http://iptv.example.com/streams/discovery_balkans.m3u8
+#EXTINF:-1 tvg-id="ViasatHistory" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/Viasat_History_Logo.png",Viasat History Balkans (sa prevodom)
+http://iptv.example.com/streams/viasathistory_balkans.m3u8
+#EXTINF:-1 tvg-id="RTDocumentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/RT_Documentary_logo.svg",RT Documentary
+http://streaming.example.com/rt_documentary.m3u8
+#EXTINF:-1 tvg-id="EuronewsRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Euronews_logo.svg",Euronews Srbija (na srpskom)
+http://streaming.example.com/euronews_rs.m3u8
+#EXTINF:-1 tvg-id="HistoryChannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/History_Channel_logo.svg",History Channel
+http://streaming.example.com/history_channel.m3u8
+#EXTINF:-1 tvg-id="ViasatHistory" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/Viasat_History_Logo.png",Viasat History
+http://streaming.example.com/viasat_history.m3u8
+#EXTINF:-1 tvg-id="History2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/History2_logo.svg",History 2 (H2)
+http://streaming.example.com/history2.m3u8
+
+
+
+#Sportski kanali
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Arena_Sport_logo.png",Arena Sport 1 HD
+http://live.iptvexample.com/arenasport1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Arena_Sport_logo.png",Arena Sport 2 HD
+http://live.iptvexample.com/arenasport2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Arena_Sport_logo.png",Arena Sport 3 HD
+http://live.iptvexample.com/arenasport3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Arena_Sport_logo.png",Arena Sport 4 HD
+http://live.iptvexample.com/arenasport4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Arena_Sport_logo.png",Arena Sport 5 HD
+http://live.iptvexample.com/arenasport5.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Arena_Sport_logo.png",Arena Sport 6 HD
+http://live.iptvexample.com/arenasport6.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Sport_Klub_logo.svg",Sport Klub 1 HD
+http://live.iptvexample.com/sportklub1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Sport_Klub_logo.svg",Sport Klub 2 HD
+http://live.iptvexample.com/sportklub2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Sport_Klub_logo.svg",Sport Klub 3 HD
+http://live.iptvexample.com/sportklub3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Sport_Klub_logo.svg",Sport Klub 4 HD
+http://live.iptvexample.com/sportklub4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Sport_Klub_logo.svg",Sport Klub 5 HD
+http://live.iptvexample.com/sportklub5.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Sport_Klub_logo.svg",Sport Klub 6 HD
+http://live.iptvexample.com/sportklub6.m3u8
+#EXTINF:-1 tvg-id="ExtremeSports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/Extreme_Sports_Channel_logo.png",Extreme Sports Channel
+http://live.example.com/extreme.m3u8
+#EXTINF:-1 tvg-id="RealMadridTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ee/Real_Madrid_TV_logo.png",Real Madrid TV
+http://live.example.com/realmadridtv.m3u8
+#EXTINF:-1 tvg-id="BarcaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Barca_TV_logo.png",Barça TV
+http://live.example.com/barcatv.m3u8
+#EXTINF:-1 tvg-id="BeINSports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/BeIN_Sports_logo.svg",BeIN Sports
+http://live.example.com/beinsports.m3u8
+#EXTINF:-1 tvg-id="BTTSport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/BTSport_logo.svg",BTTSport
+http://live.example.com/bttsport.m3u8
+#EXTINF:-1 tvg-id="FightNetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Fight_Network_logo.svg",Fight Network
+http://live.example.com/fightnetwork.m3u8
+
+
+
+# Srpski nacionalni kanali
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/RTS_logo.svg",RTS 1
+http://live.iptvexample.com/rts1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/RTS_2_logo.svg",RTS 2
+http://live.iptvexample.com/rts2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/RTS_Sport_logo.svg",RTS Sport
+http://live.iptvexample.com/rtssport.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/RTV_Vojvodina_logo.svg",RTV Vojvodina
+http://live.iptvexample.com/rtvvojvodina.m3u8
+
+# Lokalne i komercijalne srpske TV stanice
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/N1_logo.svg",N1 Srbija
+http://live.iptvexample.com/n1srbija.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Nova_S_logo.png",Nova S
+http://live.iptvexample.com/novas.m3u8
+#EXTINF:-1 tvg-id="InformerTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/TV_Informer_logo.png",Informer TV
+http://live.iptvexample.com/informertv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Prva_TV_logo.svg",Prva TV
+http://live.iptvexample.com/prvatv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Pink_TV_logo.svg",Pink TV
+http://live.iptvexample.com/pinktv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Happy_TV_logo.svg",Happy TV
+http://live.iptvexample.com/happytv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/B92_logo.svg",B92
+http://live.iptvexample.com/b92.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/O2_TV_logo.svg",O2.TV
+http://live.iptvexample.com/o2tv.m3u8
+
+# Dodatni srpski kanali
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Pink_2_logo.svg",RTV Pink 2
+http://live.iptvexample.com/pink2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Pink_Action_logo.svg",RTV Pink Action
+http://live.iptvexample.com/pinkaction.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Pink_Extra_logo.svg",RTV Pink Extra
+http://live.iptvexample.com/pinkextra.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Pink_World_logo.svg",RTV Pink World
+http://live.iptvexample.com/pinkworld.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Studio_B_logo.svg",Studio B
+http://live.iptvexample.com/studiob.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/O2_TV_logo.svg",TV O2
+http://live.iptvexample.com/o2tv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/RTV_Politika_logo.svg",RTV Politika
+http://live.iptvexample.com/rtvpolitika.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/RTV_5_Vojvodina_logo.svg",RTV 5 Vojvodina
+http://live.iptvexample.com/rtv5.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/DM_Sat_logo.svg",DM Sat
+http://live.iptvexample.com/dmsat.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Happy_Kids_logo.svg",Happy Kids
+http://live.iptvexample.com/happykids.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Prva_Plus_logo.svg",Prva Plus
+http://live.iptvexample.com/prvaplus.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Pink_Films_logo.svg",Pink Films
+http://live.iptvexample.com/pinkfilms.m3u8
+
+# Još kanala iz EX Yu i tematskih
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/RTS_3_logo.svg",RTS 3 (informativni i dokumentarni)
+http://live.iptvexample.com/rts3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/RTS_Drama_logo.svg",RTS Drama
+http://live.iptvexample.com/rtsdrama.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/B92_logo.svg",B92 Info
+http://live.iptvexample.com/b92info.m3u8
+#EXTINF:-1 tvg-id="KurirTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Kurir_TV_logo.png",Kurir TV
+http://live.iptvexample.com/kurirtv.m3u8
+#EXTINF:-1 tvg-id="TanjugTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Tanjug_TV_logo.png",Tanjug TV
+http://live.iptvexample.com/tanjugtv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/RTV_Nis_logo.svg",RTV Niš
+http://live.iptvexample.com/rtvnis.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/RTV_Leskovac_logo.svg",RTV Leskovac
+http://live.iptvexample.com/rtvleskovac.m3u8
+#EXTINF:-1 tvg-id="BalkanTrip" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Balkan_Trip_TV_logo.png",Balkan Trip
+http://live.iptvexample.com/balkantrip.m3u8
+#EXTINF:-1 tvg-id="RTInt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/RT_News_logo.svg",RT (Russia Today)
+http://live.iptvexample.com/rt.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Nat_Geo_Wild_logo.svg",Nat Geo Wild (sa prevodom)
+http://live.iptvexample.com/natgeowild-srb.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Discovery_Science_Logo.svg",Discovery Science (sa prevodom)
+http://live.iptvexample.com/discovery-science-srb.m3u8
+#EXTINF:-1 tvg-id="HGTVSerbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/HGTV_Logo_2015.svg",HGTV (sa prevodom)
+http://live.iptvexample.com/hgtv-srb.m3u8
+#EXTINF:-1 tvg-id="TLCSerbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TLC_logo_2016.svg",TLC (sa prevodom)
+http://live.iptvexample.com/tlc-srb.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraBalkans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Al_Jazeera_Balkans_Logo.png",Al Jazeera Balkans
+http://live.iptvexample.com/aljazeera-balkans.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Al_Jazeera_English_Logo.png",Al Jazeera English
+http://live.iptvexample.com/aljazeera-english.m3u8
+#EXTINF:-1 tvg-id="HRT1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/HRT_1_logo.png",HRT 1 (Hrvatska)
+http://live.example.com/hrt1.m3u8
+#EXTINF:-1 tvg-id="BNTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BN_TV_logo.png",BN TV (BiH)
+http://live.example.com/bntv.m3u8
+#EXTINF:-1 tvg-id="Hayat" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Hayat_TV_logo.png",Hayat TV (BiH)
+http://live.example.com/hayat.m3u8
+#EXTINF:-1 tvg-id="Sitel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Sitel_TV_logo.png",Sitel (MK)
+http://live.example.com/sitel.m3u8
+#EXTINF:-1 tvg-id="TVCG1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TVCG1_logo.png",TVCG 1 (Crna Gora)
+http://live.example.com/tvcg1.m3u8
+#EXTINF:-1 tvg-id="RTRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/RT-RS_logo.svg",RTRS (Republika Srpska)
+http://live.example.com/rtrs.m3u8
+#EXTINF:-1 tvg-id="OTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/OTV_logo.png",OTV (Hercegovina)
+http://live.example.com/otv.m3u8
+#EXTINF:-1 tvg-id="PinkM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/RTV_Pink_logo.svg",Pink M (Crna Gora)
+http://live.example.com/pinkm.m3u8
+
+# Dečiji i edukativni kanali
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Cartoon_Network_logo.svg",Cartoon Network
+http://live.iptvexample.com/cartoon.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Nickelodeon_logo.svg",Nickelodeon
+http://live.iptvexample.com/nickelodeon.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Disney_Channel_logo.svg",Disney Channel
+http://live.iptvexample.com/disney.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Discovery_Kids_logo.svg",Discovery Kids
+http://live.iptvexample.com/discoverykids.m3u8
+#EXTINF:-1 tvg-id="DuckTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Ducktv_logo.png",DuckTV
+http://live.example.com/ducktv.m3u8
+#EXTINF:-1 tvg-id="JimJam" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/JimJam_logo.png",JimJam
+http://live.example.com/jimjam.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Disney_Junior_Logo.svg",Disney Junior (sa prevodom)
+http://live.example.com/disneyjunior.m3u8
+#EXTINF:-1 tvg-id="NickJr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Nick_Jr._Logo.svg",Nick Jr. (sa prevodom)
+http://live.example.com/nickjr.m3u8
+#EXTINF:-1 tvg-id="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Boomerang_2014_logo.svg",Boomerang
+http://live.example.com/boomerang.m3u8
+
+
+# Muzički kanali dodatno
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_Classic_logo.svg",MTV Classic
+http://live.iptvexample.com/mtvclassic.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Trace_Tva_logo.svg",Trace TV
+http://live.iptvexample.com/tracetv.m3u8
+#EXTINF:-1 tvg-id="TOXIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TOXIC_TV_logo.png",Toxic TV (Muzika/Regionalni hitovi)
+http://live.iptvexample.com/toxictv.m3u8
+#EXTINF:-1 tvg-id="IDJ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/IDJVideos_TV_logo.svg",IDJVideos.TV
+http://live.iptvexample.com/idjvideos.m3u8
+#EXTINF:-1 tvg-id="RedTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Red_TV_logo_Pink.png",RED TV
+http://live.example.com/redtv.m3u8
+#EXTINF:-1 tvg-id="ZvezdeGranda" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Zvezde_Granda_logo.png",Zvezde Granda TV
+http://live.example.com/zvezdegranda.m3u8
+#EXTINF:-1 tvg-id="BravoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Bravo_TV_logo.png",Bravo TV
+http://live.example.com/bravotv.m3u8
+
+
+# Superstar TV kanali
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Superstar_TV_logo.svg",Superstar TV
+http://live.iptvexample.com/superstartv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Superstar_Reality_logo.svg",Superstar Reality
+http://live.iptvexample.com/superstarreality.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Superstar_Music_logo.svg",Superstar Music
+http://live.iptvexample.com/superstarmusic.m3u8
+
+# Kanali iz Niša
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/RTV_Nis_logo.svg",RTV Niš
+http://live.iptvexample.com/rtvnis.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/TV_Nis_logo.svg",TV Niš
+http://live.iptvexample.com/tvnis.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Nis_Satelit_logo.svg",Niš Satelit
+http://live.iptvexample.com/nissatelit.m3u8
