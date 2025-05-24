@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="", AS (net)
+#EXTVLCOPT:http-user-agent=Android
 #EX-YU Filmski kanali sa prevodom
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/AXN_logo.svg/1200px-AXN_logo.svg.png",AXN
 http://live.iptvexample.com/axn.m3u8
